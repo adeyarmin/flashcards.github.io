@@ -36,7 +36,7 @@ To move a file into a directory, use `mv` with the source file as the first argu
 
 ### cat
 
-`cat` allows us to create single or multiple files, view contain of file, concatenate files and redirect output in terminal or files.
+`cat` allows us to create single or multiple files, view content of files, concatenate files and redirect output in terminal or files.
 
 ### touch
 
